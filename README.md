@@ -1,4 +1,7 @@
 # HR Analytics Dashboard - Optimización de Reportes de Rotación 📊
+
+![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/HR_Analytics_Dashboard-Rotacion_de_personal-/blob/main/HR%20rotacion%20.png?raw=true)
+
 ## Descripción del Proyecto
 Este proyecto es una solución analítica desarrollada en Microsoft Excel para el departamento de Recursos Humanos de una empresa de comercio electrónico (caso práctico de A2 Capacitación). El objetivo principal fue automatizar y unificar el reporte de métricas de contratación y rotación de personal para más de 140 gerentes a nivel nacional, eliminando la necesidad de crear presentaciones manuales y reduciendo el tiempo de generación de reportes a menos de 4 horas mensuales.
 
